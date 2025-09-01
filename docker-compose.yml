@@ -1,5 +1,5 @@
 services:
   app:
-    image: my-app-image:latest
+    image: my-spring-app:latest
     ports:
       - "8080:8080"
